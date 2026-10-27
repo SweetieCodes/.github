@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/won-2-ff9000?style=for-the-badge&labelColor=000000" alt="Won" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/earned-%E2%82%BD750%2C000-ff9000?style=for-the-badge&labelColor=000000" alt="Earned" />
+<img src="https://img.shields.io/badge/earned-%E2%82%BD650%2C000-ff9000?style=for-the-badge&labelColor=000000" alt="Earned" />
 
 <br/>
 <br/>
